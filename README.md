@@ -8,6 +8,8 @@
 
 Tech Stack
 
-Html
-Css
-JavaScript
+-Html
+
+-Css
+
+-JavaScript
